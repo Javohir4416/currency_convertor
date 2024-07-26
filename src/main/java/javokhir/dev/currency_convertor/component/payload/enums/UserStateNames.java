@@ -1,0 +1,28 @@
+package javokhir.dev.currency_convertor.component.payload.enums;
+
+public enum UserStateNames {
+    START,
+    ENTER_PASSWORD_FOR_ADMIN,
+
+    ENTERED_WRONG_PASSWORD_FOR_ADMIN,
+
+    SHOW_MENU,
+
+    GET_INFORMATION,
+
+    CHOOSE_CONVERTOR,
+
+    CONVERTOR_TO_UZBEK,
+
+
+    CONVERTOR_FROM_UZBEK,
+
+    HISTORY,
+
+    SEND_MESSAGE_TO_USERS,
+
+    INPUT_AMOUNT_FOR_UZBEK,
+    INPUT_AMOUNT_FOR_CURRENCY,
+
+    THROW_TO_ADMIN_CABINET
+}
