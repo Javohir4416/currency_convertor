@@ -1,6 +1,6 @@
 package javokhir.dev.currency_convertor.entity;
 
-import javokhir.dev.currency_convertor.component.payload.enums.UserStateNames;
+import javokhir.dev.currency_convertor.payload.enums.UserStateNames;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

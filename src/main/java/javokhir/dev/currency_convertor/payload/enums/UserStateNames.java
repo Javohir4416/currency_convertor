@@ -1,4 +1,4 @@
-package javokhir.dev.currency_convertor.component.payload.enums;
+package javokhir.dev.currency_convertor.payload.enums;
 
 public enum UserStateNames {
     START,

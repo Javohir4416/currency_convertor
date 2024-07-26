@@ -1,4 +1,4 @@
-package javokhir.dev.currency_convertor.component.payload;
+package javokhir.dev.currency_convertor.payload;
 
 import lombok.Data;
 

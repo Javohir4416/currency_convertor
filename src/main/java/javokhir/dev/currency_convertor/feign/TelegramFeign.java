@@ -1,5 +1,5 @@
 package javokhir.dev.currency_convertor.feign;
-import javokhir.dev.currency_convertor.component.payload.ResultTelegram;
+import javokhir.dev.currency_convertor.payload.ResultTelegram;
 import javokhir.dev.currency_convertor.constants.RestConstants;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PostMapping;
